@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETLBasics", "ETLBasics\ETLBasics.dtproj", "{295EBF6E-D077-4A05-9C35-4CADAB29DC23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295EBF6E-D077-4A05-9C35-4CADAB29DC23}.Development|Default.ActiveCfg = Development
+		{295EBF6E-D077-4A05-9C35-4CADAB29DC23}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84B616A-F5CA-4D8E-91DC-D0E6E1D7AFB5}
+	EndGlobalSection
+EndGlobal
